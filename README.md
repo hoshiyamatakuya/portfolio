@@ -60,4 +60,11 @@
 
 figmaリンク
 
-https://www.figma.com/file/ghlbtsy6rpof3kX0ZR3fVE/Untitled?node-id=0%3A1
+https://www.figma.com/file/xgdYItSjZyMTmOMVR2q3ql/Untitled?node-id=0%3A1&t=gyQzAv3kPGfYvwuB-1
+
+拡大後figma 
+
+https://www.figma.com/file/ghlbtsy6rpof3kX0ZR3fVE/%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA%E3%80%80%E6%9C%80%E7%B5%82?node-id=36%3A744
+
+ER図　
+https://drive.google.com/file/d/117uONeFykirXbInkC0bK8lqne30x8yep/view?usp=sharing
