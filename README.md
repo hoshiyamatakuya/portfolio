@@ -1,3 +1,5 @@
+# README
+
 ■ サービス概要a
 　トレードする専用のプラットフォームがなく、円滑に希望者を見つけることが困難だと感じている人たちに、
   希望者と譲受者を簡単かつ円滑にマッチングできる
@@ -68,5 +70,27 @@ https://www.figma.com/file/xgdYItSjZyMTmOMVR2q3ql/Untitled?node-id=0%3A1&t=sBp6X
 
 ER図　
 https://drive.google.com/file/d/1TQ3OvkDycE69LjChiDUvNd-WUjwd_Nbt/view?usp=sharing
-bInkC0bK8lqne30x8yep/view?usp=sharing
 
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
