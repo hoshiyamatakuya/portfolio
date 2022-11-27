@@ -1,4 +1,4 @@
-　■ サービス概要a
+■ サービス概要a
 　トレードする専用のプラットフォームがなく、円滑に希望者を見つけることが困難だと感じている人たちに、
   希望者と譲受者を簡単かつ円滑にマッチングできる
   個人が簡単にモノのトレードができるサービスです
@@ -62,9 +62,11 @@ figmaリンク
 
 https://www.figma.com/file/xgdYItSjZyMTmOMVR2q3ql/Untitled?node-id=0%3A1&t=gyQzAv3kPGfYvwuB-1
 
-拡大後figma 
+拡大後figma
 
-https://www.figma.com/file/ghlbtsy6rpof3kX0ZR3fVE/%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA%E3%80%80%E6%9C%80%E7%B5%82?node-id=36%3A744
+https://www.figma.com/file/xgdYItSjZyMTmOMVR2q3ql/Untitled?node-id=0%3A1&t=sBp6XTfSS3ZNEe4U-1
 
 ER図　
-https://drive.google.com/file/d/117uONeFykirXbInkC0bK8lqne30x8yep/view?usp=sharing
+https://drive.google.com/file/d/1TQ3OvkDycE69LjChiDUvNd-WUjwd_Nbt/view?usp=sharing
+bInkC0bK8lqne30x8yep/view?usp=sharing
+
